@@ -1,23 +1,60 @@
-p {
 
-color: #34f327
+footer {
+
+font-size: 3rem;
+text-align: center;
+color: rgb(45, 235, 235);
 
 }
 
+
+#copyright {
+
+text-align: center;
+font-size: 3rem;
+color: #0a7c99;
+
+}
+
+
+
 #tekst {
 
+text-align: center;
 color: #5518fd;
 
 }
 
 h2 {
 
+    text-align: center;
+    font-size: 1rem;
 color: rgb(157, 38, 159);
 
 }
 
 .uthevet {
 
-background-color: #5120d5;
+background-color: #a5a3ab; background-size 16px;
 
 }
+
+body {
+
+text-align: center;
+font-family: arial,helvetica, sans-serif;
+font-size: 32px;
+line-height: 1.5;
+color:rgb(112, 150, 183);
+
+}
+
+h1 {
+
+font-size: 3rem;
+text-align: center;
+
+}
+
+
+

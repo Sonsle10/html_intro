@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.uthevet {
+    font-size: 3rem;
+}
+
+strong {
+    font-size: 2rem;
+}

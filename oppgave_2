@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main> 
+
+<p><img class="hero-image" src="hoooobby.png" alt="Minecraft logo"></p>
+
+    <h1>Gaming</h1>
+    <nav>
+        <a href="#hobby">Utstyr du trenger    </a> <br> <a href="#spill">viktig info om hele teamaet</a>
+       <br>
+       <br>
+       <br>
+       <br>
+
+
+    </nav>
+
+    
+    <section id="hobby">
+        <h4>utstyr du trenger for å begyne</h4>
+
+    </section>
+    <ul>
+        <li>Du trenger Headset</li>
+        <li>Du trenger Mus</li>
+        <li>Du trenger Keyboard</li>
+    </ul>
+
+    <br>
+    <br>
+
+    <h2>Gaming er at man spiller videospill på en PC, konsoll eller mobil.<br> Det finnes mane forskjellige typer spill, for eksempel spill der man<br>bygger ting, utforsker verden, dreper hverandre eller løser oppgaver med og eller mot andre spillere</h2>
+<br>
+    <h2>For mange handler gaming ikke bare om spillet, men også om å ha det gøy, utfordre<br> seg selv, lære nye ferdigheter og være sosial med venner.<br> Man kan spille alene eller sammen med andre, både på nett og i samme rom.</h2>
+    
+<br>
+<br>
+<br>
+   <h3> dette er mine 4 tips for deg som vil starte med min hobby</h3>
+    <ol>
+        <li>Det første man trenger for å begyne med gaming er noe å spille på, da trenger du pc, konsoll eller en mobil.</li>
+        <li>mitt andre tips er etter du har valgt en plattform så må du prøve så mange spill som mulig for å se hva du liker.</li>
+        <li>Mitt tredje tips er at når du har funnet et spill du liker så burde du prøve å bli bedre på det, fordi da for du mestring følesle.</li>
+        <li>Mitt siste tips er at etter du har blitt god på det spillet så burde du prøve flere spill sånn at du ikke blir kjapt lei av det spillet</li>
+    </ol>
+
+    
+    
+    
+
+
+    </main>
+</body>
+<header>
+    <br>
+
+     
+    <br>
+    
+
+</header>
+
+
+<header>
+    <br>
+    <ol>
+    <section id="spill">
+    </ol>   
+    <ul class="uthevet">
+    <p>Det eneste du trenger å huske er at du må ha det <em>Morsomt</em> fordi det er det viktigste</p>
+</ul>
+
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</header>
+
+
+</html>

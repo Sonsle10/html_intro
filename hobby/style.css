@@ -1,11 +1,72 @@
+html,
 body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
   margin: 0;
 }
 
-img {
+.hero-image {
   display: block;
   width: 100%;
   height: auto;
 }
 
 /* jeg brukte ai her fordi jeg ikke fant ut av hvordan man fikk bilde til å treffe kantene */
+
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200px;
+    margin: 0;
+    background-color: #0e0303; background-size 50px;
+    color: aliceblue;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.uthevet {
+    text-align: center;
+    background-color: #0e0303; background-size 50px;
+    font-size: 32px;
+    color: rgb(255, 253, 253);
+}
+
+ol {
+    list-style-position: inside;
+    padding-left: 0;
+    font-size: 24px;
+}
+
+section {
+font-size: 3rem;
+}
+
+body {
+    text-align: center;
+}
+
+nav {
+    background-color: #0e0303; background-size 50px;
+    font-size: 32px;
+    color: rgb(14, 180, 241);
+    margin: 0;
+}

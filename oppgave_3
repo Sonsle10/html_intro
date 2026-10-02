@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main> 
+
+
+
+    <h1>ROCKET LEAGUE</h1>
+    <p><img class="hero-image" src="rocketleague2.png" alt="rocket league intro bilde"></p>
+    <nav>
+        <a href="#fakta"> Fakta om Rocket League</a> <br> <a href="#"></a>
+       <br>
+       <br>
+       <br>
+       <br>
+
+
+    </nav>
+
+    
+    <section id="fakta">
+        <h4>Fakta om Rocket League</h4>
+
+    </section>
+    <ul>
+        <li>Sjangeren til Rocket League er Fotball og Bil</li>
+        <li>Året Rocket League kom ut var 2015</li>
+        <li>Rocket League kan man spille på PC og Konsoll</li>
+        <li>Aldersgrennsen på Rocket League er 3 år
+    </ul>
+
+
+
+
+    <br>
+    <br>
+
+    <h2>Rocket League handler om å skåre mål i det andre nettet uten å bli skårt på</h2>
+<br>
+    <h2>Det handler også om å ranke opp til høyere nivåer sånn at du for mestrings følelse</h2>
+    
+<br>
+<br>
+<br>
+   <h3>Det som er bra med Rocket League</h3>
+    <ul>
+        <li>Det som jeg personlig liker best med Rocket League er at det er kompetetivt.</li>
+        <li>I Rocket League er det veldig vanskelig å hacke, fordi at det er et veldig få måter å faktisk gjemme at du jukser på.</li>
+        <li>Rocket League er et veldig uniks spill, fordi at det er ingen andre spill som ligner på det.</li>
+    </ul>
+<br>
+    <h3>Det som er dårlig med Rocket League</h3>
+    <ul>
+        <li>Rocket League har en av de VERSTE miljøet fordi ALLE spillerne er toxice mot hverandre hele tiden.</li>
+        <li>Det er veldig mye lag og når du begynner å lagge så er det ikke bare mill lag, det er på det høyeste nivået.</li>
+        <li>Det er en ting som heter smurfs, og det er når man bytter til en annen bruker sånn at du kan spille på et dårligere nivå sånn at de i det nivået taper.</li>
+    </ul>    
+
+    
+    
+    
+
+
+    </main>
+</body>
+<header>
+    <br>
+
+     
+    <br>
+    
+
+</header>
+
+
+<header>
+    <br>
+    <ol>
+    <section id="spill">
+    </ol>   
+    <ul class="uthevet">
+    <p>Jeg gir Rocket League en 5-er. <em>  </em> Jeg gir den en 5-er fordi at spillet er veldig bra, men på Rocket League så kan man bli veldig sur.</p>
+</ul>
+
+    </section>
+    
+    <h2>Jeg anbefaler det, men jeg anbefaler det bare hvis du har <strong>fritid</strong> og ikke blir fort <strong>sur.</strong></h2>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</header>
+
+
+</html>

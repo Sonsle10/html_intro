@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main> 
+    <h1>Kroatia</h1>
+    <nav>
+        <a href="#kroatia">Kroatia liste</a>
+        
+        <a href="#info">Reis til Kroatia</a>
+       
+    </nav>
+
+    <img src="imagesCroatia.png" alt="Dette er det Kroatiske Flaget">
+    
+    <br>
+    <br>
+
+    <h2>Jeg vil dra tilbake til Kroatia fordi det var varmt og deilig der. <br> Været var veldig fint, og jeg likte å være der.</h2>
+
+    <h2>Jeg vil også dra tilbake på grunn av de gode minnene jeg fikk der.<br> Jeg hadde det veldig fint, og derfor har jeg lyst til å oppleve Kroatia igjen.</h2>
+    
+<br>
+<br>
+<br>
+
+    <ol>
+        <li>Jeg må oppleve det varme været</li>
+        <li>Jeg må få gode minner derfra</li>
+        <li>Jeg må bade i det varme vannet</li>
+    </ol>
+
+    
+    
+    
+
+
+    </main>
+</body>
+<header>
+    <br>
+
+     <section id="kroatia">
+        <h5>Kroatia liste</h5>
+
+    </section>
+    <ul>
+        <li>Kroatia er i sør Europa</li>
+        <li>Kroatia bruker valutan euro og har brukt det siden 2023</li>
+        <li>Det er rundt 4 millioner folk som bor i Kroatia</li>
+    </ul>
+    <br>
+    <img src="images (1).png" alt="Dette er det Kroatiske Flaget">
+
+</header>
+
+
+<header>
+    <br>
+
+    <section id="info">
+        <h2>Reiseliv i Kroatia</h2>
+
+        <ul class="uthevet">
+    <li>Mitt beste reise tips til alle er at du bør planlegge det viktigste på forhånd.</li>
+    <li><a href="https://www.apollo.no/kroatia">Reis til Kroatia</a></li>
+</ul>
+
+    </section>
+</header>
+
+
+</html>
